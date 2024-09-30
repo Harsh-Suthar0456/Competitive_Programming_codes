@@ -1,0 +1,24 @@
+table{
+    border:0.1px solid black;
+    border-collapse: collapse;
+    
+}
+tr{
+    border:0.1px solid black;
+}
+th{
+    font-weight: bolder;
+    border: 0.1px solid black;
+}
+td{
+
+    border:0.1px solid black;
+}
+#single{
+    border:none;
+    text-align: center;
+    font-weight: bold;
+}
+tr:hover{
+    background-color: grey;
+}

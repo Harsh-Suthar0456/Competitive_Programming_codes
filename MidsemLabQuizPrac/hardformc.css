@@ -1,0 +1,15 @@
+form {
+    width:max-content;
+    text-align: center;
+    margin: auto;
+}
+#form_body{
+    text-align: right;
+}
+
+h1 {
+    color:aqua;
+}
+#name_form{
+    text-align: center;
+}

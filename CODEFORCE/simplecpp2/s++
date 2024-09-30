@@ -1,0 +1,2 @@
+#!/bin/sh -x
+g++ $@ -Wall /Users/vipharshsuthar/Downloads/simplecpp2/lib/libsprite.a -I/Users/vipharshsuthar/Downloads/simplecpp2/include -I/opt/X11/include -L/opt/X11/lib -lX11 -std=c++11
